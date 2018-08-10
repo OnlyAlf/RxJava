@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_width">120dp</dimen>
+    <dimen name="item_height">140dp</dimen>
+    <dimen name="item_tv_height_40">40dp</dimen>
+    <dimen name="item_tv_height_20">20dp</dimen>
+    <dimen name="no_dimens">0dp</dimen>
+    <dimen name="item_constraint_2">2dp</dimen>
+    <dimen name="item_constraint_4">4dp</dimen>
+</resources>
